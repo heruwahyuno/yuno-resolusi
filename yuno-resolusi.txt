@@ -1,5 +1,5 @@
-YUNO RESOLUSI
-- Sebanyak mungkin membuat aplikasi CRUD berbasis CodeIgniter & MS SQL Server untuk kebutuhan internal organisasi/instansi.
+YUNO RESOLUSI (2019/2020)
+- Sebanyak mungkin membuat aplikasi CRUD berbasis CodeIgniter & MS SQL Server guna memenuhi kebutuhan internal organisasi/instansi.
 - Memperkuat pemahaman teknis implementasi CodeIgniter, Ajax-JQuery, dan RestAPI.
 - Memperkuat pemahaman teknis implementasi Indexing table-table pada MS SQL Server DBMS.
 - Kolaborasi dengan lebih banyak expert.
