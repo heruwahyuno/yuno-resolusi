@@ -2,3 +2,5 @@ YUNO RESOLUSI
 - Sebanyak mungkin membuat aplikasi CRUD berbasis CodeIgniter & MS SQL Server untuk kebutuhan internal organisasi/instansi.
 - Memperkuat pemahaman teknis implementasi CodeIgniter, Ajax-JQuery, dan RestAPI.
 - Memperkuat pemahaman teknis implementasi Indexing table-table pada MS SQL Server DBMS.
+- Develop the web-based version of the current desktop-based SIMRS.
+- Kolaborasi dengan lebih banyak expert.
