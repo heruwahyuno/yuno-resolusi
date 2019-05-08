@@ -1,0 +1,6 @@
+- pada routes, setting default_controller = 'welcome'
+- pada controller Welcome, function index(), load view('welcome_message')
+- pada view 'welcome_message', load view('navigation_bar') dan load view ('content')
+- pada view 'navigation_bar' ada script js utk mengatur aktivasi menu
+  dan juga mengatur konten (ada tag div di view 'content' sebagai container dari konten yang akan di load) berdasarkan uri segment-nya
+  (2 tujuan terlampaui : cleaner uri & menu-item selected active)
